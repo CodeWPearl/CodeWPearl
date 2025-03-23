@@ -1,8 +1,6 @@
 <h1 align="center">You Can Call Me Pearl !!</h1>
 <h3 align="center">From Code to Creation – A Journey into Web Development</h3>
-
-
-<img aling="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
 
@@ -23,9 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewpearl&show_icons=true&locale=en&layout=compact" alt="codewpearl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewpearl&show_icons=true&locale=en&layout=compact" alt="codewpearl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewpearl&show_icons=true&locale=en" alt="codewpearl" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=codewpearl&show_icons=true&locale=en" alt="codewpearl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewpearl&" alt="codewpearl" /></p>
 
