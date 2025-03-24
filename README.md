@@ -1,12 +1,19 @@
 <h1 align="center">You Can Call Me Pearl !!</h1>
 <h3 align="center">From Code to Creation – A Journey into Web Development</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewpearl&label=Profile%20views&color=0e75b6&style=flat" alt="codewpearl" /> </p>
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
+- 🔭 I’m interested in **web development and UI/UX Desinging.**
 
 - 🌱 I’m currently learning **javascript , react.js**
 
 - 💬 Ask me about **java,c,html,css**
+
+- 👯 I’m eager to **contribute to open-source projects , collaborations, and learn from fellow developers.**
 
 - 📫 How to reach me **pearlqueenray2006@gmail.com**
 
