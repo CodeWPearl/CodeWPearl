@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
-- 🔭 I’m interested in **web development and UI/UX Desinging.**
+- 🔭 I’m interested in **web development **
 
 - 🌱 I’m currently learning **javascript , react.js**
 
