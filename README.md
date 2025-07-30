@@ -9,9 +9,9 @@
 
 - 🔭 I’m interested in **web development and UI/UX Desinging**
 
-- 🌱 I’m currently learning **javascript , react.js**
+- 🌱 I’m currently learning **generative ai**
 
-- 💬 Ask me about **java,c,html,css**
+- 💬 Ask me about **java,c,html,css,react.js,node.js**
 
 - 👯 I’m eager to **contribute to open-source projects , collaborations, and learn from fellow developers.**
 
