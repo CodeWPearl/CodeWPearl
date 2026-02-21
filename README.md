@@ -10,7 +10,7 @@
 
 - 🔭 I’m interested in **dev and agentic ai**
 
-- 🌱 I’m currently learning **go lang nd aiml**
+- 🌱 I’m currently learning **go lang nd gen ai**
 
 - 🤝 I’m eager to contribute to **open-source projects , collaborations, and learn from fellow developers.**
 
