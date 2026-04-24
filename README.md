@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">U Can Call Me Pearl !!</h1>
+<h1 align="center">U Can Call Me Pearl !</h1>
 <h3 align="center">From Code to Creation – A Journey into Web And App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewpearl&label=Profile%20views&color=0e75b6&style=flat" alt="codewpearl" /> </p>
@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
-- 🔭 I’m interested in **dev and agentic ai**
+- 🔭 I’m interested in **dev and agentic a**
 
 - 🌱 I’m currently learning **go lang nd gen ai**
 
