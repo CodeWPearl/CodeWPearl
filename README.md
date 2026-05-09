@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **next.js,node.js**
 
-- 📫 How to reach me **pearlqueenray2006@gmail.com**
+- 📫 How to reach me **hirepearlqueenray@gmail.com**
 
 - ⚡ Fun fact **I love to play basketball and explore new technologies in web development world.**
 
